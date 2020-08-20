@@ -32,7 +32,7 @@ public class Part4 {
     public void testing () {
         String text = "";
         text = getURL();
-        System.out.println("part 4 start");
+        System.out.println("part 4 started");
         System.out.println(text);
     }
 
