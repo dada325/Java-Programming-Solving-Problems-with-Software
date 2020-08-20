@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Part2
+comment0.text=\n\ A\ improve\ version\ of\ the\ Part\ 1.\ \n\ \n\ @author\ Wenda\ Zheng\n\ @version\ 0.002\n
+comment1.params=dna_input
+comment1.target=java.lang.String\ findSimpleGene(java.lang.String)
+comment2.params=
+comment2.target=void\ testSimpleGene()
+numComments=3

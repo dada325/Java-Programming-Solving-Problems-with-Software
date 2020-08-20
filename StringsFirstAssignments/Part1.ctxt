@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Part1
+comment0.text=\n\ A\ simple\ method\ to\ find\ the\ start\ with\ ATG\ and\ end\ with\ TAA\ codon\ and\ \n\ verified\ if\ it\ contain\ a\ gene.\n\ \n\ @Wenda\ Zheng\n\ @version\ 0.01\n
+comment1.params=s
+comment1.target=java.lang.String\ findSimpleGene(java.lang.String)
+comment2.params=
+comment2.target=void\ testSimpleGene()
+numComments=3
