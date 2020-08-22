@@ -1,2 +1,2 @@
-# Java-Programming-Solving-Problems-with-Software
+# Java-Programming
 course material 
